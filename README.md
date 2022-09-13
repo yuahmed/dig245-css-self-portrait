@@ -76,7 +76,7 @@ Points | Description
 
 - Art history [famous self-portraits](https://mymodernmet.com/famous-self-portraits/)
 - Collections [Dribble flat characters](https://dribbble.com/search/flat%20characters), [@musketon](https://www.instagram.com/musketon/), [@thomcat23](https://www.instagram.com/thomcat23/), [@thomas_danthony](https://www.instagram.com/thomas_danthony/), [@vector.mob](https://www.instagram.com/vector.mob/), [@cecierlich](https://www.instagram.com/cecierlich/), [@owendaveydraws](https://www.instagram.com/owendaveydraws/), [@mister_fred_berlin](https://www.instagram.com/mister_fred_berlin/), [@nina_dzyvulska](https://www.instagram.com/nina_dzyvulska/), [@eezy](https://www.instagram.com/eezy/)
-- Generative / deformations [Humaaans](https://www.humaaans.com/), Rafaël Rozendaal [Polychrome](https://www.instagram.com/p/ChcOtIDrWOw/?hl=en), David Lewandowski [Late for Meeting](https://vimeo.com/78424222)
+- Generative / deformations [Humaaans](https://www.humaaans.com/), Rafaël Rozendaal [Polychrome](https://www.instagram.com/p/ChcOtIDrWOw/?hl=en), [Dribbble Geometric patterns in graphic design](https://dribbble.com/stories/2020/11/11/simple-geometric-pattern-inspiration) David Lewandowski [Late for Meeting](https://vimeo.com/78424222)
 - Internet Art [abstractbrowsing.net](http://www.abstractbrowsing.net), [species-in-pieces.com](http://species-in-pieces.com/), [Form Art](http://www.c3.hu/collection/form/), [Lorna Mills](https://www.instagram.com/lorna.mills/?hl=en)
 
 2. Previsualize your layout by making sketches in [Figma](https://www.youtube.com/watch?v=AJK9NBGL5Bk). For example, try placing an image of yourself and tracing it with the shape tool, choosing colors as you do. (feel free to experiment an find your own method!)
