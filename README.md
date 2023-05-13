@@ -116,6 +116,16 @@ Points | Description
 <details>
 <summary>Past examples</summary>
 
+<!-- 2023-fall -->  
+https://zoearen.github.io/dig245-css-self-portrait/index.html
+https://limilano.github.io/dig245-css-self-portrait/index.html
+  
+  
+<!-- 2022-fall -->
+https://hehowell.github.io/dig245-css-self-portrait/index.html
+https://anclaire.github.io/dig245-css-self-portrait/index.html  
+  
+  
 <!-- 2021-fall -->
 [Owen](https://jsfiddle.net/ow3n/xnkfLuvz/)
 [Drew](https://drdibble.github.io/dig245-css-self-portrait/)
