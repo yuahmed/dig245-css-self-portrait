@@ -1,8 +1,6 @@
 
 # CSS Self Portrait
 
-Create a self-portrait using only HTML and CSS
-
 ![view source](assets/img/portraits.png)
 
 <sup>Work by past students</sup>
@@ -11,7 +9,7 @@ Create a self-portrait using only HTML and CSS
 
 ## Introduction
 
-Practice previsualizing a layout using tools in Figma and translating the design into HTML CSS code using positioning, the box model, and z-index.
+Create a self-portrait using only HTML and CSS
 
 <details>
 <summary>Learning Objectives</summary>
@@ -42,35 +40,18 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 
 <details>
 <summary>Rubric</summary>
-
-Points | Description
----: | ---
-10 | The original drawing(s) in Figma are linked, creative, and reflect research into the subject.
-10 | The elements of the graphic are consistent throughout the page.
-10 | The portrait represents the student to some degree.
-10 | The HTML document uses correct structure, nesting, and syntax throughout.
-10 | The student expanded their knowledge on their own (e.g. experimented with new tags).
-10 | Javascript prompts (x,y, querySelectorAll) are working as instructed.
-10 | The content of the page follows parameters outlined in instructions.
-10 | All code is working as intended.
-10 | All code is valid and properly structured. No missing references or errors in the console.
-10 | The project is online, accessible, and linked from Moodle by the deadline.
-100 | Total possible
-
-
+See Moodle.
 </details>
 
 
 
 
-## Assigment
+## Setup
+
+[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 
 
-### Setup
-
-[Fork](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.gad119073e1_0_6) this repository and [clone](https://docs.google.com/presentation/d/1vtK6LoqwF4rQQZZy-ovuEgsYUwwMRXsqDVMOjAPSBt0/edit#slide=id.g9930d559e8_0_0) it to the `critical-web-design` folder on your machine.
-
-### Design
+## Design
 
 1. Start by looking at examples for inspiration
 
@@ -81,7 +62,7 @@ Points | Description
 
 2. Previsualize your layout by making sketches in [Figma](https://www.youtube.com/watch?v=AJK9NBGL5Bk). For example, try placing an image of yourself and tracing it with the shape tool, choosing colors as you do. (feel free to experiment an find your own method!)
 
-### Code
+## Code
 
 1. Use HTML, CSS, and JS to code your design inside `index.html`
 1. Use only hand-typed HTML and CSS for graphics; Do not add image or SVG files to the code. Do not use Figma to export code from your drawing.
@@ -93,24 +74,22 @@ Points | Description
 1. Add link(s) somewhere on the page to your original sketches in Figma.
 
 
-### Publish
+## Publish
 
-1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics-keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
+1. [Save and refresh](https://github.com/omundy/learn-computing/blob/main/topics/keyboard-shortcuts.md#web-development-edit-save-refresh-loop) your work in the browser often to see your changes.
 1. Commit changes regularly.
 1. Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>
-1. When finished, [push, publish, and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit#bookmark=id.8jryplv1i8a)
-
-
-
-
-
-
+1. When finished, push, publish, and post all deliverables to Moodle per documentation in the Assignments.
 
 
 
 ## Resources
 
 - Course references [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), and [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md)
+- [Mozilla Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
+
+
+
 
 
 <details>
