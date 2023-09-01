@@ -115,17 +115,16 @@ Points | Description
 
 <details>
 <summary>Past examples</summary>
+  
 
-<!-- 2023-fall -->  
-https://zoearen.github.io/dig245-css-self-portrait/index.html
-https://limilano.github.io/dig245-css-self-portrait/index.html
-  
-  
 <!-- 2022-fall -->
-https://hehowell.github.io/dig245-css-self-portrait/index.html
-https://anclaire.github.io/dig245-css-self-portrait/index.html  
-  
-  
+[Drew](https://drew-beamer.github.io/dig245-css-self-portrait/)
+[Zoe](https://zoearen.github.io/dig245-css-self-portrait/)
+[Gaby](https://gasanclimenti.github.io/dig245-css-self-portrait/)
+[Awais](https://awabid.github.io/dig245-css-self-portrait/)
+[Olsen](https://olsenbudanur.github.io/dig245-css-self-portrait/)
+[Lillian](https://limilano.github.io/dig245-css-self-portrait/)
+
 <!-- 2021-fall -->
 [Owen](https://jsfiddle.net/ow3n/xnkfLuvz/)
 [Drew](https://drdibble.github.io/dig245-css-self-portrait/)
@@ -135,6 +134,7 @@ https://anclaire.github.io/dig245-css-self-portrait/index.html
 [Erina](https://erlee1.github.io/dig245-css-self-portrait/)
 [Caroline](https://casigl.github.io/dig245-css-self-portrait/)
 [Mengfan](https://mengfw-02.github.io/dig245-css-self-portrait/)
+[Henry](https://hehowell.github.io/dig245-css-self-portrait/)
 
 <!-- [Fall 2017](https://omundy.wordpress.com/2017/09/18/web-art-box-model-self-portraits-fall-2017/) -->
 [Katie](https://jsfiddle.net/ow3n/yrvsLo9w/)
