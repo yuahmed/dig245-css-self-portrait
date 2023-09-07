@@ -56,6 +56,7 @@ See Moodle.
 1. Start by looking at examples for inspiration
 
 - Art history [famous self-portraits](https://mymodernmet.com/famous-self-portraits/)
+- [Pure CSS Art](https://css-art.com/) like Diana Adrianne's [francine](https://diana-adrianne.com/purecss-francine/) and [vignes](https://diana-adrianne.com/purecss-vignes/) or [Sarah Fossheim's](https://fossheim.io/) [polaroid](https://css-art.com/polaroid-camera-in-css/) and [casio](https://css-art.com/casiopt-1-css/) 
 - Collections [Dribble flat characters](https://dribbble.com/search/flat%20characters), [@musketon](https://www.instagram.com/musketon/), [@thomcat23](https://www.instagram.com/thomcat23/), [@thomas_danthony](https://www.instagram.com/thomas_danthony/), [@vector.mob](https://www.instagram.com/vector.mob/), [@cecierlich](https://www.instagram.com/cecierlich/), [@owendaveydraws](https://www.instagram.com/owendaveydraws/), [@mister_fred_berlin](https://www.instagram.com/mister_fred_berlin/), [@nina_dzyvulska](https://www.instagram.com/nina_dzyvulska/), [@eezy](https://www.instagram.com/eezy/)
 - Generative / deformations [Humaaans](https://www.humaaans.com/), Rafaël Rozendaal [Polychrome](https://www.instagram.com/p/ChcOtIDrWOw/?hl=en), [Dribbble Geometric patterns in graphic design](https://dribbble.com/stories/2020/11/11/simple-geometric-pattern-inspiration) David Lewandowski [Late for Meeting](https://vimeo.com/78424222)
 - Internet Art [abstractbrowsing.net](http://www.abstractbrowsing.net), [species-in-pieces.com](http://species-in-pieces.com/), [Form Art](http://www.c3.hu/collection/form/), [Lorna Mills](https://www.instagram.com/lorna.mills/?hl=en)
@@ -96,39 +97,32 @@ See Moodle.
 <summary>Past examples</summary>
   
 
-<!-- 2022-fall -->
-[Drew](https://drew-beamer.github.io/dig245-css-self-portrait/)
-[Zoe](https://zoearen.github.io/dig245-css-self-portrait/)
-[Gaby](https://gasanclimenti.github.io/dig245-css-self-portrait/)
-[Awais](https://awabid.github.io/dig245-css-self-portrait/)
-[Olsen](https://olsenbudanur.github.io/dig245-css-self-portrait/)
-[Lillian](https://limilano.github.io/dig245-css-self-portrait/)
-
-<!-- 2021-fall -->
-[Owen](https://jsfiddle.net/ow3n/xnkfLuvz/)
-[Drew](https://drdibble.github.io/dig245-css-self-portrait/)
-[Annelise](https://anclaire.github.io/dig245-css-self-portrait/)
-[Evan](https://evrothman.github.io/dig245-css-self-portrait/)
-[Anh](https://anhhoang1402.github.io/dig245-css-self-portrait/)
-[Erina](https://erlee1.github.io/dig245-css-self-portrait/)
-[Caroline](https://casigl.github.io/dig245-css-self-portrait/)
-[Mengfan](https://mengfw-02.github.io/dig245-css-self-portrait/)
-[Henry](https://hehowell.github.io/dig245-css-self-portrait/)
-
-<!-- [Fall 2017](https://omundy.wordpress.com/2017/09/18/web-art-box-model-self-portraits-fall-2017/) -->
-[Katie](https://jsfiddle.net/ow3n/yrvsLo9w/)
-[Ted](https://jsfiddle.net/ow3n/1jmzworg/)
-[Lauren](https://jsfiddle.net/ow3n/v1wpkyj4/)
-
-<!-- [Spring 2015](https://omundy.wordpress.com/2015/03/30/web1-spring-2015-self-portrait-highlights/) -->
-[Colson](https://jsfiddle.net/ow3n/k1s4x5fh/)
-[Connor](https://jsfiddle.net/ow3n/rn40ho6z/)
-[Jacob](https://jsfiddle.net/ow3n/t4n2wdp9/)
-[Felicia](https://jsfiddle.net/ow3n/3fpxqosh/)
-
-<!-- [Fall 2014](https://omundy.wordpress.com/2014/10/22/web1-box-model-self-portrait-post-here/) -->
-[Scott](http://jsfiddle.net/ow3n/ozvm215d/)
-[Ashley](http://jsfiddle.net/ow3n/vghc93zw/)
-[Michele](http://jsfiddle.net/ow3n/251dy8mz/)
+- 2022 
+    [Zoe](https://zoearen.github.io/dig245-css-self-portrait/)
+    [Gaby](https://gasanclimenti.github.io/dig245-css-self-portrait/)
+    [Awais](https://awabid.github.io/dig245-css-self-portrait/)
+    [Lillian](https://limilano.github.io/dig245-css-self-portrait/)
+- 2021
+    [Owen](https://jsfiddle.net/ow3n/xnkfLuvz/)
+    [Drew](https://drdibble.github.io/dig245-css-self-portrait/)
+    [Annelise](https://anclaire.github.io/dig245-css-self-portrait/)
+    [Evan](https://evrothman.github.io/dig245-css-self-portrait/)
+    [Anh](https://anhhoang1402.github.io/dig245-css-self-portrait/)
+    [Erina](https://erlee1.github.io/dig245-css-self-portrait/)
+    [Caroline](https://casigl.github.io/dig245-css-self-portrait/)
+    [Henry](https://hehowell.github.io/dig245-css-self-portrait/)
+- 2017 <!-- https://omundy.wordpress.com/2017/09/18/web-art-box-model-self-portraits-fall-2017/ -->
+    [Katie](https://jsfiddle.net/ow3n/yrvsLo9w/)
+    [Ted](https://jsfiddle.net/ow3n/1jmzworg/)
+    [Lauren](https://jsfiddle.net/ow3n/v1wpkyj4/)
+- 2015 <!-- https://omundy.wordpress.com/2015/03/30/web1-spring-2015-self-portrait-highlights/ -->
+    [Colson](https://jsfiddle.net/ow3n/k1s4x5fh/)
+    [Connor](https://jsfiddle.net/ow3n/rn40ho6z/)
+    [Jacob](https://jsfiddle.net/ow3n/t4n2wdp9/)
+    [Felicia](https://jsfiddle.net/ow3n/3fpxqosh/)
+- 2014 <!-- https://omundy.wordpress.com/2014/10/22/web1-box-model-self-portrait-post-here/ -->
+    [Scott](http://jsfiddle.net/ow3n/ozvm215d/)
+    [Ashley](http://jsfiddle.net/ow3n/vghc93zw/)
+    [Michele](http://jsfiddle.net/ow3n/251dy8mz/)
 
 </details>
