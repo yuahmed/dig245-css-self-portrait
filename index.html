@@ -1,15 +1,44 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
+  <head>
     <!-- meta tags, links to css, etc. -->
     <title>DIG 245 CSS Self-Portrait</title>
-</head>
-<body>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
 
+  <body class="bgcol">
     <!-- visible content goes here -->
     <h1>DIG 245 CSS Self-Portrait</h1>
 
+    <div id="mouseTrack" class="mouseTrack">Cursor Position: X = , Y= </div>
+
+    <!--hijab/ headscarf-->
+    <div class="hijab center">
+      <div class="midtip">
+        <div class="righttip bgcol"></div>
+        <div class="lefttip bgcol"></div>
+      </div>
+    </div>
+
+    <div class="face center"></div>
+
+    <!--glasses & facial features: eyes, nose & mouth-->
+    <div class="center">
+      <div class="eleft eye"></div>
+      <div class="eright eye"></div>
+      <div class="nose"></div>
+      <div class="lips">
+        <div class="lipscover"></div>
+      </div>
+
+      <!--glasses-->
+      <div class="glasses lensL"></div>
+      <div class="glasses lensR"></div>
+      <div class="rim"></div>
+    </div>
+
     <!-- load javascript after the page elements render -->
     <script src="assets/js/main.js"></script>
-</body>
+
+  </body>
 </html>
