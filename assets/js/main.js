@@ -26,4 +26,3 @@ document.addEventListener('mousemove', function(e) {
 })
 
 console.log("Total No. of HTML elements:" + document.querySelectorAll("div").length)
-console.log(document.querySelectorAll("div"))
